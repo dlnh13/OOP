@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="ChooseWorkspaceDialogSettings">
+<<<<<<< Updated upstream
 		<item key="DIALOG_X_ORIGIN" value="210"/>
 		<item key="DIALOG_Y_ORIGIN" value="213"/>
+=======
+		<item key="DIALOG_X_ORIGIN" value="418"/>
+		<item key="DIALOG_Y_ORIGIN" value="235"/>
+>>>>>>> Stashed changes
 	</section>
 	<section name="WORKBENCH_SETTINGS">
 		<list key="ENABLED_TRANSFERS">
 		</list>
 	</section>
+<<<<<<< Updated upstream
 	<section name="SmartImportWizard">
 		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
 		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
@@ -17,4 +23,6 @@
 			<item value="/Users/dieulinh/Documents/GitHub/OOP"/>
 		</list>
 	</section>
+=======
+>>>>>>> Stashed changes
 </section>
