@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.internal.QuickAccess">
+		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_WIDTH" value="502"/>
+		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_HEIGHT" value="439"/>
+		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_USE_PERSISTED_SIZE" value="true"/>
+		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_USE_PERSISTED_LOCATION" value="false"/>
+		<list key="orderedElements">
+			<item value="org.eclipse.ui.preferencePages.AutoSave"/>
+			<item value="org.eclipse.oomph.setup.RecorderPreferencePage"/>
+			<item value="junit.actions.GotoTestAction"/>
+			<item value="org.eclipse.ui.edit.text.zoomIn"/>
+			<item value="org.eclipse.ui.preferencePages.Views"/>
+		</list>
+		<list key="orderedProviders">
+			<item value="org.eclipse.ui.preferences"/>
+			<item value="org.eclipse.ui.preferences"/>
+			<item value="org.eclipse.ui.actions"/>
+			<item value="org.eclipse.ui.commands"/>
+			<item value="org.eclipse.ui.preferences"/>
+		</list>
+		<list key="textEntries">
+			<item value="1"/>
+			<item value="1"/>
+			<item value="1"/>
+			<item value="1"/>
+			<item value="1"/>
+		</list>
+		<list key="textArray">
+			<item value="auto sa"/>
+			<item value="prefe"/>
+			<item value="r"/>
+			<item value="size"/>
+			<item value="dark"/>
+		</list>
+	</section>
+</section>
